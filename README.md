@@ -42,7 +42,8 @@ This data is processed to improve data quality and enrich features for downstrea
 
 ## Insights & Next Steps
 
-### Key insights: After cleaning, you might observe sales trends by hour or weekday, transactions out of expected ranges, or seasonal patterns.
+### Key insights: 
+After cleaning, you might observe sales trends by hour or weekday, transactions out of expected ranges, or seasonal patterns.
 
 ### Next steps: You can extend this work by:
 - Conducting Exploratory Data Analysis (EDA) on the cleaned data.
